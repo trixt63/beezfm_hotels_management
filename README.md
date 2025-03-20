@@ -7,6 +7,11 @@ This project consists of 3 components. Please refer to these 3 repositories for 
 2. [Backend](https://github.com/trixt63/beezfm_backend)
 3. [Frontend](https://github.com/trixt63/beezfm_frontend)
 
+## Video demo:
+https://github.com/user-attachments/assets/c4e5c9ad-410d-438b-b71f-766b500a0577
+
+
+
 Next, here is the outline of my solution for the assigment.
 
 ## 1. [Database](https://github.com/trixt63/beezfm_database)
